@@ -1,0 +1,25 @@
+/* .app-shell {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  height: 100vh;
+  background: #0f1117;
+} */
+
+/* Sidebar */
+.sidebar {
+  background: #161b22;
+  padding: 80px 20px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.app-shell {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  height: 100vh;
+}
+
+.canvas-area {
+  height: 100%;
+}

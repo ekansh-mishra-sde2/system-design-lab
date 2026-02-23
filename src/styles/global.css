@@ -1,0 +1,17 @@
+/* Global styles */
+body {
+  margin: 0;
+  background-color: #0f1117;
+  color: #e6edf3;
+  font-family: Inter, sans-serif;
+}
+
+h1 {
+  font-size: 34px;
+  margin-bottom: 16px;
+}
+
+p {
+  line-height: 1.6;
+  color: #b3bac5;
+}
