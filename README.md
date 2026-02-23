@@ -230,13 +230,3 @@ MIT License.
 Built with passion to make system design visual, interactive, and practical.
 
 ---
-
-If you'd like, I can now create:
-
-- 🔥 A more “startup-polished” README (for portfolio)
-- 📸 Version with demo GIF section
-- 🧠 More technical architecture-focused README
-- 🏆 Recruiter-optimized version
-- 🌍 Open-source growth version
-
-Just tell me the target audience.
